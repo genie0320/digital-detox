@@ -1,4 +1,5 @@
+*.json
+_*.*
+_*/
+
 /.mypy_cache
-/main.py
-/tests
-/_old
